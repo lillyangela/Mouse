@@ -1,0 +1,33 @@
+﻿已經開始建置於 2017/6/18 下午 07:17:39。
+     1>節點 2 (Build 目標) 上的專案 "F:\JOB\論文\程式碼\source (20150204)\Mouse.vcxproj"。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (test1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt source\ToolWnd.cpp
+         ToolWnd.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\JOB\論文\程式碼\source (20150204)\Debug\Mouse.exe" /INCREMENTAL /NOLOGO Ws2_32.lib winmm.lib Msimg32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\JOB\論文\程式碼\source (20150204)\Debug\Mouse.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\JOB\論文\程式碼\source (20150204)\Debug\Mouse.lib" /MACHINE:X86 Debug\bkb32c.res
+         Debug\AirMouse.obj
+         Debug\BKB001.obj
+         Debug\BKBgdi.obj
+         Debug\BKBRepErr.obj
+         Debug\BKBSettings.obj
+         Debug\Click.obj
+         Debug\Fixation.obj
+         Debug\Internat.obj
+         Debug\KeybLayouts.obj
+         Debug\KeybWnd.obj
+         Debug\KeybWndLoad.obj
+         Debug\MagnifyWnd.obj
+         Debug\OnGazeData.obj
+         Debug\Smooth.obj
+         Debug\StartupDialog.obj
+         Debug\TET.obj
+         Debug\TobiiREX.obj
+         Debug\ToolWnd.obj
+         Debug\TranspWnd.obj
+         Mouse.vcxproj -> F:\JOB\論文\程式碼\source (20150204)\Debug\Mouse.exe
+     1>專案 "F:\JOB\論文\程式碼\source (20150204)\Mouse.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.93

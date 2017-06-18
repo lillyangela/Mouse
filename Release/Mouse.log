@@ -1,0 +1,33 @@
+﻿已經開始建置於 2017/6/18 下午 07:16:24。
+     1>節點 2 (Build 目標) 上的專案 "F:\JOB\論文\程式碼\source (20150204)\Mouse.vcxproj"。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt source\ToolWnd.cpp
+         ToolWnd.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\JOB\論文\程式碼\source (20150204)\Release\Mouse.exe" /INCREMENTAL /NOLOGO Ws2_32.lib winmm.lib Msimg32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\JOB\論文\程式碼\source (20150204)\Release\Mouse.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\JOB\論文\程式碼\source (20150204)\Release\Mouse.lib" /MACHINE:X86 /SAFESEH Release\bkb32c.res
+         Release\AirMouse.obj
+         Release\BKB001.obj
+         Release\BKBgdi.obj
+         Release\BKBRepErr.obj
+         Release\BKBSettings.obj
+         Release\Click.obj
+         Release\Fixation.obj
+         Release\Internat.obj
+         Release\KeybLayouts.obj
+         Release\KeybWnd.obj
+         Release\KeybWndLoad.obj
+         Release\MagnifyWnd.obj
+         Release\OnGazeData.obj
+         Release\Smooth.obj
+         Release\StartupDialog.obj
+         Release\TET.obj
+         Release\TobiiREX.obj
+         Release\ToolWnd.obj
+         Release\TranspWnd.obj
+     1>LINK : warning LNK4075: 忽略 '/INCREMENTAL'，由於 '/OPT:ICF' 規格
+         Mouse.vcxproj -> F:\JOB\論文\程式碼\source (20150204)\Release\Mouse.exe
+     1>專案 "F:\JOB\論文\程式碼\source (20150204)\Mouse.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.78
